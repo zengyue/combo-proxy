@@ -1,0 +1,15 @@
+{
+  "name": "combo-proxy",
+  "version": "0.1.0",
+  "description": "静态文件combo和代理",
+  "author": "zengyue.yezy",
+  "main": "index.js",
+  "dependencies":{
+    "connect": "~2.12.0",
+    "mime": "~1.2.11",
+    "q": "~1.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
