@@ -1,8 +1,13 @@
 {
   "name": "combo-proxy",
-  "version": "0.1.0",
-  "description": "静态文件combo和代理",
-  "author": "zengyue.yezy",
+  "version": "0.1.1",
+  "description": "static files combo and proxy",
+  "homepage": "https://github.com/zengyue/combo-proxy",
+  "author": {
+    "name": "Zengyue Ye",
+    "email": "yzy1089@gmail.com",
+    "url": "https://github.com/zengyue"
+  },
   "main": "index.js",
   "dependencies":{
     "connect": "~2.12.0",
